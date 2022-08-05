@@ -8,3 +8,5 @@ C learning files
   - Loops
   - Ternary operator
   - Factorial
+  - Great Common Divisor (2 numbers)
+  - Great Common Divisor (n numbers)
