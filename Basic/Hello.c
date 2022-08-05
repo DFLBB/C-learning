@@ -8,10 +8,11 @@ int	main(int argc, char **argv)
 	char	aux;
 	char	str[20];
 
-	str[0] = 'B';
-	str[1] = 'o';
-	str[2] = 'b';
-	str[3] = 'o';
+	str[0] = 'H';
+	str[1] = 'e';
+	str[2] = 'l';
+	str[3] = 'l';
+	str[4] = 'o';
 	c = 0;
 	i = 0;
 	aux = argc + '0';
@@ -30,7 +31,7 @@ int	main(int argc, char **argv)
 	}
 	i = 0;
 	c = 0;
-	printf("str original %s\n", str);
+	printf("initial str %s\n", str);
 	while (argv[1][c] != 0)
 		c++;
 	c--;
@@ -40,6 +41,6 @@ int	main(int argc, char **argv)
 		i++;
 		c--;
 	}
-	printf("str modificada %s\n", str);
+	printf("final str %s\n", str);
 	return (0);
 }
