@@ -7,6 +7,7 @@ C learning files
   - Atoi
   - Loops
   - Ternary operator
-  - Factorial
+  - Factorial of a number
   - Great Common Divisor (2 numbers)
   - Great Common Divisor (n numbers)
+  - Number is prime
