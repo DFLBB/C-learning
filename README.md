@@ -11,3 +11,4 @@ C learning files
   - Great Common Divisor (2 numbers)
   - Great Common Divisor (n numbers)
   - Number is prime
+  - Reverse of an integer
