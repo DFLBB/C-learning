@@ -12,3 +12,5 @@ C learning files
   - Great Common Divisor (n numbers)
   - Number is prime
   - Reverse of an integer
+  - Palindrome number (without reverse)
+  - Print triangle
