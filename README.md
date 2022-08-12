@@ -14,3 +14,4 @@ C learning files
   - Reverse of an integer
   - Palindrome number (without reverse)
   - Print triangle
+  - Pow
