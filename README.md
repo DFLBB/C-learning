@@ -13,5 +13,12 @@ C learning files
   - Number is prime
   - Reverse of an integer
   - Palindrome number (without reverse)
-  - Print triangle
+  - Print symbol triangle
   - Pow
+  - Count digits
+
+* Array
+  - Declare an int array
+  - Malloc (array of int)
+  - Malloc (string)
+  - Malloc (array of array of int)
