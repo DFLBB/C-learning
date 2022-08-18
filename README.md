@@ -16,6 +16,7 @@ C learning files
   - Print symbol triangle
   - Pow
   - Count digits
+  - Max length os argv strings
 
 * Array
   - Declare an int array

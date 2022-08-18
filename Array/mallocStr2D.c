@@ -13,12 +13,11 @@ int	ft_maxLength(char **argv)
 	while (argv[c])
 	{
 		while (argv[c][i] != '\0')
-		{
-			if (i > res)
-				res = i;
 			i++;
-		}
+		if (i > res)
+			res = i;
 		c++;
+		i = 0;
 	}
 	return (res);
 }
