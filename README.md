@@ -22,3 +22,4 @@ C learning files
   - Malloc (array of int)
   - Malloc (string)
   - Malloc (array of array of int)
+  - Malloc (array of string)
