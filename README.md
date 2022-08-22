@@ -19,6 +19,8 @@ C learning files
   - Max length os argv strings
   - Length of an array (strlen)
   - Concatenate strings (strcat)
+  - Copy source string in destiny string (strcpy)
+  - Copy n chars from source string in destiny string (strncpy)
 
 * Array
   - Declare an int array
