@@ -21,6 +21,8 @@ C learning files
   - Concatenate strings (strcat)
   - Copy source string in destiny string (strcpy)
   - Copy n chars from source string in destiny string (strncpy)
+  - Compare strings (strcmp)
+  - Compare n characters of strings (strncmp)
 
 * Array
   - Declare an int array

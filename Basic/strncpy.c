@@ -62,7 +62,7 @@ int	main(int argc, char **argv)
 		printf("Source string: %s\n", argv[2]);
 		printf("Number of characters: %d\n", num);
 		dest = ft_strncpy(argv[1], argv[2], num);
-		printf("Copied n chars from src in dest and stored: %s\n", dest);
+		printf("Copied n chars of src in dest and stored: %s\n", dest);
 	}
 	return (0);
 }
