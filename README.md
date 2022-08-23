@@ -34,3 +34,6 @@ C learning files
 * Pointer
   - Declare a pointer
   - Call a pointer
+
+* Struct
+  - Declare a struct
