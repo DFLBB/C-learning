@@ -30,3 +30,7 @@ C learning files
   - Malloc (string)
   - Malloc (array of array of int)
   - Malloc (array of string)
+
+* Pointer
+  - Declare a pointer
+  - Call a pointer

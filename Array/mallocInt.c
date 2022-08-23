@@ -25,28 +25,6 @@ int	ft_atoi(char *num)
 	}
 	return (res * sign);
 }
-/*
-char	*ft_mallocChar(char *src)
-{
-	char	*new;
-	int		i;
-	int		c;
-
-	c = 0;
-	while (src[c])
-		++c;
-	new = malloc(sizeof(*new) * (c + 1));
-	if (!(new))
-		return (NULL);
-	i = 0;
-	while (src[i])
-	{
-		new[i] = src[i];
-		i++;
-	}
-	new[i] = '\0';
-	return (new);
-}*/
 
 int	*ft_mallocInt(int argc, char **argv)
 {
